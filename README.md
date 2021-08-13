@@ -21,6 +21,7 @@ Factors that increase your risk of having a baby with a genetic disorder include
 - Multiple miscarriages or prior stillbirth.
 - Prenatal exposure to Drugs, Alcohol, or other Environmental Factors.
 
+
 ## Lifecycle of the Project
 - Exploratory Data Analysis -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic%20Disorder-EDA.ipynb
 
@@ -33,6 +34,7 @@ Factors that increase your risk of having a baby with a genetic disorder include
 
 #### Initial Dataset -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/tree/main/dataset
 
+___ 
 
 ## **Reference**: 
 1. https://women.texaschildrens.org/program/high-risk-pregnancy-care/conditions/genetic-disorders
