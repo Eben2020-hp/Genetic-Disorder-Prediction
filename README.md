@@ -21,17 +21,20 @@ Factors that increase your risk of having a baby with a genetic disorder include
 - Multiple miscarriages or prior stillbirth.
 - Prenatal exposure to Drugs, Alcohol, or other Environmental Factors.
 
-## Lifecycle of the Project
-- Exploratory Data Analysis -> 
 
-- Feature Engineering, Feature Encoding and Feature Scaling -> 
-- Model Building -> 
+## Lifecycle of the Project
+- ***Exploratory Data Analysis*** -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic%20Disorder-EDA.ipynb
+- ***Feature Engineering, Feature Encoding and Feature Scaling*** -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic%20Disorder-Feature%20Engineering.ipynb
+- ***Model Building (With Multi-Class Classifier)***-> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic%20Disorder-Model%20Building%20(Using%20OneVsRest).ipynb
+- ***Model Building (Without Multi-Class Classifier)*** ->
+
 
 
 #### Initial Dataset -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/tree/main/dataset
 
+___ 
 
-**Reference**: 
+## **Reference**: 
 1. https://women.texaschildrens.org/program/high-risk-pregnancy-care/conditions/genetic-disorders
 2. https://www.who.int/elena/titles/folate_periconceptional/en/
 3. http://headsup.scholastic.com/students/the-role-of-genes-in-drug-addiction
@@ -39,3 +42,7 @@ Factors that increase your risk of having a baby with a genetic disorder include
 5. https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 6. https://www.cdc.gov/ncbddd/birthdefects/facts.html
 7. https://childrensoncologygroup.org/lowwhitebloodcellcount
+
+___
+## **Credits**
+#### This was a **Hackathon** conducted by <a href="https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/">hackerearth</a>.
