@@ -28,13 +28,7 @@ Factors that increase your risk of having a baby with a genetic disorder include
 - Model Building -> 
 
 
-#### Initial Dataset -> <link rel="canonical" href="https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/tree/main/dataset" />
-
-
-
-
-
-
+#### Initial Dataset -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/tree/main/dataset
 
 
 **Reference**: 
