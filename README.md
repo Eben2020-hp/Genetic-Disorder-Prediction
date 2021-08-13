@@ -26,7 +26,7 @@ Factors that increase your risk of having a baby with a genetic disorder include
 - ***Exploratory Data Analysis*** -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic%20Disorder-EDA.ipynb
 - ***Feature Engineering, Feature Encoding and Feature Scaling*** -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic%20Disorder-Feature%20Engineering.ipynb
 - ***Model Building (With Multi-Class Classifier)***-> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic%20Disorder-Model%20Building%20(Using%20OneVsRest).ipynb
-- ***Model Building (Without Multi-Class Classifier)*** ->
+- ***Model Building (Without Multi-Class Classifier)*** -> https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/blob/main/Genetic_Disorder_Model_Building%20(Normal%20Classifiers).ipynb
 
 
 
