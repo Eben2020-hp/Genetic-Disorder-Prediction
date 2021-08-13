@@ -1,4 +1,6 @@
-### **Introduction**
+# Predict the Genetic Disorder
+
+## **Introduction**
 
 <p>Genetic disorders occur when a problem in the baby’s chromosomes or genes causes physical abnormalities or illnesses.
 
@@ -18,6 +20,21 @@ Factors that increase your risk of having a baby with a genetic disorder include
 - Advanced paternal age (40 or older).
 - Multiple miscarriages or prior stillbirth.
 - Prenatal exposure to Drugs, Alcohol, or other Environmental Factors.
+
+## Lifecycle of the Project
+- Exploratory Data Analysis -> <link rel="canonical" href="https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/machine-learning/predict-the-genetic-disorders-9-76826a5e/" />
+
+- Feature Engineering, Feature Encoding and Feature Scaling -> 
+- Model Building -> 
+
+
+#### Initial Dataset 
+
+
+
+
+
+
 
 **Reference**: 
 1. https://women.texaschildrens.org/program/high-risk-pregnancy-care/conditions/genetic-disorders
