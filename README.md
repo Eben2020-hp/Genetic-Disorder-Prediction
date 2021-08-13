@@ -22,13 +22,14 @@ Factors that increase your risk of having a baby with a genetic disorder include
 - Prenatal exposure to Drugs, Alcohol, or other Environmental Factors.
 
 ## Lifecycle of the Project
-- Exploratory Data Analysis -> <link rel="canonical" href="https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/machine-learning/predict-the-genetic-disorders-9-76826a5e/" />
+- Exploratory Data Analysis -> 
 
 - Feature Engineering, Feature Encoding and Feature Scaling -> 
 - Model Building -> 
 
 
-#### Initial Dataset 
+#### Initial Dataset -> <link rel="canonical" href="https://github.com/Eben2020-hp/Genetic-Disorder-Prediction/tree/main/dataset" />
+
 
 
 
