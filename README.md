@@ -49,4 +49,6 @@ ___
 
 ### **Final Standing**
 
+#### *With this method I was able to secure 99th rank in the hackathon among approximately 2020 participants.*
+
 ![HackerEarth](https://user-images.githubusercontent.com/66016994/129482257-18ec4438-2cdf-414d-9f94-5f8bedce2db1.png)
